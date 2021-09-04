@@ -1,1 +1,3 @@
 # BSQ
+
+readme en cours.
