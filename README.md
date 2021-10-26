@@ -1,3 +1,4 @@
 # BSQ
 
-readme en cours.
+readme à refaire.
+
