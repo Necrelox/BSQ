@@ -2,3 +2,4 @@
 
 readme à refaire.
 
+BSQ Epitech
